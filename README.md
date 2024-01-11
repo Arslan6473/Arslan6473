@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning MERN Stack Devolpment
 - 💞️ I’m looking to collaborate on Facebook
 - 📫 How to reach me Linkdin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: nothing
 
 <!---
 Arslan6473/Arslan6473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
