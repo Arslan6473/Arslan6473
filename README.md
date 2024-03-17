@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arslan6473
-- 👀 I’m interested in Web Devolpment
+- 👀 I’m interested in MERN Stack Devolpment
 - 🌱 I’m currently learning MERN Stack Devolpment
 - 💞️ I’m looking to collaborate on Facebook
 - 📫 How to reach me Linkdin
