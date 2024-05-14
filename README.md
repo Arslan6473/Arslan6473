@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arslan6473
-- 👀 I’m interested in MERN Stack Devolpment
-- 🌱 I’m currently learning MERN Stack Devolpment
+- 👀 I’m interested in full Stack Devolpment
+- 🌱 I’m currently learning full Stack Devolpment
 - 💞️ I’m looking to collaborate on Facebook
 - 📫 How to reach me Linkdin
 - 😄 Pronouns: he/him
