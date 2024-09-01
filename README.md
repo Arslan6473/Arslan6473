@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arslan6473
 - 👀 I’m interested in full Stack Devolpment
 - 🌱 I’m currently learning full Stack Devolpment
-- 💞️ I’m looking to collaborate on Meta
+- 💞️ I’m looking to collaborate on Everthing
 - 📫 How to reach me Linkdin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing
