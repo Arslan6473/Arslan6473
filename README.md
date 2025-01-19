@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm Muhammad Arslan Sarwar</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="40" height="40" />
+</div>
 <h3 align="center">
   A passionate full-stack developer who loves to learn new skills and technologies.  
-  With a strong foundation in both frontend and backend development, I excel at crafting dynamic, responsive, and user-friendly web applications.  
-  I am constantly exploring innovative tools and frameworks to enhance my expertise and deliver scalable solutions.  
-  My curiosity drives me to stay updated with the latest industry trends, and I thrive on solving complex challenges while creating seamless user experiences.
+  With a strong foundation in both frontend and backend development, I excel at crafting dynamic, responsive, and user-friendly applications.  
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arslan6473&label=Profile%20views&color=0e75b6&style=flat" alt="arslan6473" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="40" height="40" />
-</div>
+
 
 ---
 
