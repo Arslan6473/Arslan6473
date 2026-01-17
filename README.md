@@ -19,7 +19,7 @@
 - I’m currently working on **Clasy Copilot**  
 
 ### 🌱 Learning Focus
-- Currently diving into **React Native**  
+- Currently diving into **Nest.js**  
 
 ### 💬 Ask Me About
 - The **MERN stack**  
